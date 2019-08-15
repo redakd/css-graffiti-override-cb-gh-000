@@ -13,24 +13,19 @@ display: none;
 }
 
 #wall #tag-2 {
-display: none;
-}
+display: block}
 
 div#wall #tag-3.slick {
-display: none;
-}
+display: block}
 
 #wall #tag-4 {
-display: none;
-}
+display: block}
 
 div#wall .parent #tag-5.slick {
-display: none;
-}
+display: block}
 
 div#wall div.parent div:last-child div#tag-6 {
-display: none;
-}
+display: block}
 
 body div#wall div.parent div > #tag-7.slick {
 display: none;
